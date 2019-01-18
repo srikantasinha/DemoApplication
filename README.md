@@ -1,2 +1,2 @@
-# DemoBankApplication
-Demo Bank Application with Git Gradle and Sonar
+# DemoApplication
+Demo  Application with Git Gradle and Sonar
